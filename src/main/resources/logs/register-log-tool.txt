@@ -1,0 +1,252 @@
+* socket wrench
+ - Manufactured by: Craftsman
+ - Count: 1
+ - ID: 19e657af-3725-4074-b019-07337fab3ee9created on: 2023-06-12T17:52:09.223687700
+* socket wrench
+ - Manufactured by: DeWalt
+ - Count: 2
+ - ID: d48a718e-fb4c-473e-878e-633e632016c8created on: 2023-06-12T17:52:09.246741800
+* power drill
+ - Manufactured by: DeWalt
+ - Count: 2
+ - ID: c0b1ca71-d804-4f22-9f9e-2a454605391ccreated on: 2023-06-12T17:52:09.255816400
+* hand saw
+ - Manufactured by: Craftsman
+ - Count: 1
+ - ID: 56969327-185e-43fb-a59b-8f3f74448cf6created on: 2023-06-12T17:52:09.256817
+* hammer
+ - Manufactured by: Craftsman
+ - Count: 1
+ - ID: 281e0b49-7cb4-47a7-886d-a3b0dbe33f89created on: 2023-06-12T17:52:09.256817
+* stapler
+ - Manufactured by: DeWalt
+ - Count: 2
+ - ID: 5c2bcfe8-3aab-4bd1-a5e6-1489380fefbacreated on: 2023-06-12T17:52:09.257815900
+* power drill
+ - Manufactured by: DeWalt
+ - Count: 1
+ - ID: d47353b1-2be5-45db-9585-1d081082203ccreated on: 2023-06-12T17:52:09.268720700
+* socket wrench
+ - Manufactured by: DeWalt
+ - Count: 3
+ - ID: bd5d5036-c1d6-4437-9b76-e847da688acdcreated on: 2023-06-12T17:52:09.268720700
+* stapler
+ - Manufactured by: Swingline
+ - Count: 2
+ - ID: 62068af0-e99a-4ad9-9114-ec8973c1ff03created on: 2023-06-12T17:52:09.278729900
+* hand saw
+ - Manufactured by: Craftsman
+ - Count: 1
+ - ID: d55a5c96-4d74-48f8-8bd0-781220b2e65fcreated on: 2023-06-12T17:52:09.283754700
+* hammer
+ - Manufactured by: Craftsman
+ - Count: 1
+ - ID: 8067e9d5-b39b-409d-81fd-d2eede5514a7created on: 2023-06-12T17:52:09.286766500
+* hammer
+ - Manufactured by: Craftsman
+ - Count: 1
+ - ID: 10cff50d-b53b-4c9b-9c24-9bef1109ed1ecreated on: 2023-06-12T17:52:09.291109300
+* hand saw
+ - Manufactured by: Craftsman
+ - Count: 1
+ - ID: cfc480b6-5c34-45ca-aaf7-d56fd7915cd6created on: 2023-06-12T17:52:09.299634200
+* socket wrench
+ - Manufactured by: DeWalt
+ - Count: 1
+ - ID: 14bc56b0-11cc-400c-b8ef-26ad447e57b5created on: 2023-06-12T17:52:09.300633
+* pry bar
+ - Manufactured by: Stanley
+ - Count: 2
+ - ID: cf001fd6-a3a7-45cc-93be-8e3f145db101created on: 2023-06-12T17:52:09.302631600
+* hammer
+ - Manufactured by: Vaughan
+ - Count: 2
+ - ID: 249f50be-b37c-4c19-8aa6-b7d1e883dececreated on: 2023-06-12T17:52:09.304632400
+* hammer
+ - Manufactured by: Craftsman
+ - Count: 1
+ - ID: eccc7137-3a3b-43c0-b829-3b4bbe3d8ec9created on: 2023-06-12T17:52:09.304632400
+* hand saw
+ - Manufactured by: Stanley
+ - Count: 3
+ - ID: a4158bea-f5fa-42c9-b97f-2b7f5d07864dcreated on: 2023-06-12T17:52:09.306633100
+* power drill
+ - Manufactured by: Milwaukee
+ - Count: 2
+ - ID: cb77cccb-c702-4d92-ac42-6016aa46ef9bcreated on: 2023-06-12T17:52:09.308635500
+* stapler
+ - Manufactured by: DeWalt
+ - Count: 2
+ - ID: c024bc9a-0da3-4eae-b7e8-e5a0118ad969created on: 2023-06-12T17:52:09.308635500
+* socket wrench
+ - Manufactured by: DeWalt
+ - Count: 2
+ - ID: 2fd7de74-2156-4fd8-876a-b781a558a426created on: 2023-06-12T17:52:09.308635500
+* socket wrench
+ - Manufactured by: Craftsman
+ - Count: 1
+ - ID: 699a30f4-458c-4281-af6f-42e336aa65e9created on: 2023-06-12T17:59:58.090009100
+* socket wrench
+ - Manufactured by: DeWalt
+ - Count: 2
+ - ID: 9c32bc9c-6fef-416e-a274-395b932af727created on: 2023-06-12T17:59:58.105631600
+* power drill
+ - Manufactured by: DeWalt
+ - Count: 2
+ - ID: f5f7b96e-f904-4f94-ab7d-ee09c937f2dbcreated on: 2023-06-12T17:59:58.105631600
+* hand saw
+ - Manufactured by: Craftsman
+ - Count: 1
+ - ID: cd4d88f6-f9fc-468f-85ae-83e30e3fbb13created on: 2023-06-12T17:59:58.105631600
+* hammer
+ - Manufactured by: Craftsman
+ - Count: 1
+ - ID: b3726f83-6f28-4e78-802b-defcbe913cb3created on: 2023-06-12T17:59:58.105631600
+* stapler
+ - Manufactured by: DeWalt
+ - Count: 2
+ - ID: 694e1396-a81f-4f7c-96c9-7d878c64c912created on: 2023-06-12T17:59:58.105631600
+* power drill
+ - Manufactured by: DeWalt
+ - Count: 1
+ - ID: 6beb46ca-8c5a-4e7b-863b-c57a6f0f8f57created on: 2023-06-12T17:59:58.105631600
+* socket wrench
+ - Manufactured by: DeWalt
+ - Count: 3
+ - ID: 8792f8dd-9104-4154-a0d0-9a215f979cc9created on: 2023-06-12T17:59:58.105631600
+* stapler
+ - Manufactured by: Swingline
+ - Count: 2
+ - ID: 424e2d41-c287-4400-85e1-da235e5dfa09created on: 2023-06-12T17:59:58.121256100
+* hand saw
+ - Manufactured by: Craftsman
+ - Count: 1
+ - ID: 1fbaf0cb-885c-431c-8c0b-0ec87267e448created on: 2023-06-12T17:59:58.121256100
+* hammer
+ - Manufactured by: Craftsman
+ - Count: 1
+ - ID: c8c9c6a0-3167-4ee9-afe9-a96a3afb3b85created on: 2023-06-12T17:59:58.121256100
+* hammer
+ - Manufactured by: Craftsman
+ - Count: 1
+ - ID: e1d2371a-349c-4bbf-a2ba-eb67f7af3e19created on: 2023-06-12T17:59:58.121256100
+* hand saw
+ - Manufactured by: Craftsman
+ - Count: 1
+ - ID: cb6b07d3-84a6-4408-97b8-a0c3c7e3dd57created on: 2023-06-12T17:59:58.121256100
+* socket wrench
+ - Manufactured by: DeWalt
+ - Count: 1
+ - ID: 2e26055a-50eb-4043-923d-442f68144387created on: 2023-06-12T17:59:58.121256100
+* pry bar
+ - Manufactured by: Stanley
+ - Count: 2
+ - ID: 532598a0-c949-4e70-a315-ea52b2ee2767created on: 2023-06-12T17:59:58.136883300
+* hammer
+ - Manufactured by: Vaughan
+ - Count: 2
+ - ID: e51f7506-f375-4ade-bd71-ed595e954005created on: 2023-06-12T17:59:58.136883300
+* hammer
+ - Manufactured by: Craftsman
+ - Count: 1
+ - ID: e7f2f7c6-4583-4779-91f6-48370ef35c48created on: 2023-06-12T17:59:58.136883300
+* hand saw
+ - Manufactured by: Stanley
+ - Count: 3
+ - ID: 4bf22aa0-c4fb-4604-beeb-eb5c0c4e4b1ccreated on: 2023-06-12T17:59:58.136883300
+* power drill
+ - Manufactured by: Milwaukee
+ - Count: 2
+ - ID: e3f59d56-c700-40cc-8b55-5478a9c2c026created on: 2023-06-12T17:59:58.136883300
+* stapler
+ - Manufactured by: DeWalt
+ - Count: 2
+ - ID: 29b98e5c-1912-45c6-81b2-dab762bff8b6created on: 2023-06-12T17:59:58.136883300
+* socket wrench
+ - Manufactured by: DeWalt
+ - Count: 2
+ - ID: 2e833cb1-cba7-4472-9d96-e1c5365521a6created on: 2023-06-12T17:59:58.136883300
+* socket wrench
+ - Manufactured by: Craftsman
+ - Count: 1
+ - ID: af0d5016-0f39-4624-894d-3e9f9b87b5d2created on: 2023-06-15T14:29:56.957507700
+* socket wrench
+ - Manufactured by: DeWalt
+ - Count: 2
+ - ID: 52656399-796f-4c0a-b66d-be274a6a3a04created on: 2023-06-15T14:29:56.973132500
+* power drill
+ - Manufactured by: DeWalt
+ - Count: 2
+ - ID: 8937e454-402c-4c3d-95ce-97f673fde133created on: 2023-06-15T14:29:56.973132500
+* hand saw
+ - Manufactured by: Craftsman
+ - Count: 1
+ - ID: 4d1d1f6d-b3c6-416c-bc8f-364d4c95ff12created on: 2023-06-15T14:29:56.973132500
+* hammer
+ - Manufactured by: Craftsman
+ - Count: 1
+ - ID: 4badd79f-0e8f-4f19-9858-17fe1092f4b0created on: 2023-06-15T14:29:56.973132500
+* stapler
+ - Manufactured by: DeWalt
+ - Count: 2
+ - ID: 5d5ac99d-90ad-40b5-8bf9-0265646cb87ecreated on: 2023-06-15T14:29:56.988756100
+* power drill
+ - Manufactured by: DeWalt
+ - Count: 1
+ - ID: 5c1753fd-513b-43c6-a103-0c8433c83f69created on: 2023-06-15T14:29:56.988756100
+* socket wrench
+ - Manufactured by: DeWalt
+ - Count: 3
+ - ID: 9a4f6bca-b704-4c4a-ad7e-0221d01c843bcreated on: 2023-06-15T14:29:56.988756100
+* stapler
+ - Manufactured by: Swingline
+ - Count: 2
+ - ID: 646c8f61-1daf-47b2-baf9-a11a1135b336created on: 2023-06-15T14:29:56.988756100
+* hand saw
+ - Manufactured by: Craftsman
+ - Count: 1
+ - ID: 13262813-9bb4-4068-8b03-582904a9b0c8created on: 2023-06-15T14:29:56.988756100
+* hammer
+ - Manufactured by: Craftsman
+ - Count: 1
+ - ID: 396a0551-7d42-486c-bd5f-c1e12a95f177created on: 2023-06-15T14:29:56.988756100
+* hammer
+ - Manufactured by: Craftsman
+ - Count: 1
+ - ID: a93ab9ba-76c6-4e7f-87ea-fe7128a402b0created on: 2023-06-15T14:29:57.004381900
+* hand saw
+ - Manufactured by: Craftsman
+ - Count: 1
+ - ID: e4aa8f20-2417-4cbf-9e40-df100bd1fbe8created on: 2023-06-15T14:29:57.004381900
+* socket wrench
+ - Manufactured by: DeWalt
+ - Count: 1
+ - ID: ddf9bb1c-617b-4131-8555-ba96efc67f6acreated on: 2023-06-15T14:29:57.004381900
+* pry bar
+ - Manufactured by: Stanley
+ - Count: 2
+ - ID: 0ee6ea52-4930-4f5c-aa62-9cbf339a58bbcreated on: 2023-06-15T14:29:57.004381900
+* hammer
+ - Manufactured by: Vaughan
+ - Count: 2
+ - ID: cd5cc10a-5601-4ac8-8cc1-2633b8d940decreated on: 2023-06-15T14:29:57.004381900
+* hammer
+ - Manufactured by: Craftsman
+ - Count: 1
+ - ID: d4b2c126-14bc-4272-87df-f49b7e9f32facreated on: 2023-06-15T14:29:57.004381900
+* hand saw
+ - Manufactured by: Stanley
+ - Count: 3
+ - ID: c38f5eeb-19b3-4f7a-a0fe-380c5ac5dd50created on: 2023-06-15T14:29:57.004381900
+* power drill
+ - Manufactured by: Milwaukee
+ - Count: 2
+ - ID: 8fb8ed04-c161-4957-901d-6856f6817ca5created on: 2023-06-15T14:29:57.004381900
+* stapler
+ - Manufactured by: DeWalt
+ - Count: 2
+ - ID: c1e9b141-9826-4449-99a2-494057d8cfdecreated on: 2023-06-15T14:29:57.004381900
+* socket wrench
+ - Manufactured by: DeWalt
+ - Count: 2
+ - ID: cca939c7-f820-4fbb-ba57-5823238f9182created on: 2023-06-15T14:29:57.004381900
