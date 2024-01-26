@@ -1,4 +1,4 @@
-# Portfolio Website
+# Catalog
 
 ## Overview
 A command line interface program that allows users to browse a catalog.
